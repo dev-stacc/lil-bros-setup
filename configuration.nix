@@ -6,7 +6,7 @@
     ];
 
     _module.args = {
-        hostname = "vega";
-        username = "nova";
+        hostname = "ArasakaTower";
+        username = "cowboy";
     };
 }
